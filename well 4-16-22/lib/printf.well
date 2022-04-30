@@ -1,0 +1,9 @@
+r:func:vsnprintf_() {
+
+end
+
+r:func:printf_(const char *string, ...) {
+
+	std::cout << string << ...;
+
+end
